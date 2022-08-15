@@ -12,6 +12,6 @@
 
 ### Connect with me:
 
-- [linkedin]: https://linkedin.com/in/allisonkosborne/
+- [linkedin](https://linkedin.com/in/allisonkosborne/)
 
 ### Languages & Tools:
