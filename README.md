@@ -28,7 +28,7 @@
 <img align="left" alt="figma" width="40px" src="./Assets/figmaicon.png" style="padding-right:10px;" />
 <img align="left" alt="github" width="40px" src="./Assets/githubicon.png" style="padding-right:10px;" />
 <img align="left" alt="git" width="40px" src="./Assets/giticon.png" style="padding-right:10px;" />
-<img align="left" alt="postman" width="40px" src="./Assets/postmanicon.png" style="padding-right:10px;" />
+<img align="left" alt="postman" width="40px" src="./Assets/postman.png" style="padding-right:10px;" />
 <img align="left" alt="slack" width="40px" src="./Assets/slackicon.png" style="padding-right:10px;" />
 <img align="left" alt="teamwork" width="40px" src="./Assets/teamworkicon.png" style="padding-right:10px;" />
 <img align="left" alt="vscode" width="40px" src="./Assets/vscodeicon.png" style="padding-right:10px;" />
