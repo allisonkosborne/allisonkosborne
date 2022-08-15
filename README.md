@@ -1,6 +1,6 @@
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=allisonkosborne&theme=gruvbox_light&show_icons=true)
+### Hi there, I'm Allison. Welcome to my Github!<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
-### Hi there, I'm Allison. Welcome to my Github!
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=allisonkosborne&theme=gruvbox_light&show_icons=true)
 
 ## I am a lifelong student - I have rarely not found a subject that interests me.
 
