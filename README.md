@@ -13,6 +13,7 @@
 ### Connect with me:
 
 - [Linkedin](https://linkedin.com/in/allisonkosborne/)
+- <a href="mailto:allisonkosborne@icloud.com">Contact</a>
 
 ### Languages & Tools:
 
