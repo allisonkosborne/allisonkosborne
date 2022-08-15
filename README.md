@@ -12,6 +12,8 @@
 
 ### Connect with me:
 
-- [linkedin](https://linkedin.com/in/allisonkosborne/)
+- [Linkedin](https://linkedin.com/in/allisonkosborne/)
 
 ### Languages & Tools:
+
+<img align="left" alt="CSS" width="26px" src="./Assets/cssicon.png" style="padding-right:10px;" />
