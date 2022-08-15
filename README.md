@@ -16,4 +16,21 @@
 
 ### Languages & Tools:
 
-<img align="left" alt="CSS" width="26px" src="./Assets/cssicon.png" style="padding-right:10px;" />
+<img align="left" alt="HTML" width="40px" src="./Assets/htmlicon.png" style="padding-right:10px;" />
+<img align="left" alt="CSS" width="40px" src="./Assets/cssicon.png" style="padding-right:10px;" />
+<img align="left" alt="JS" width="40px" src="./Assets/javascipticon.png" style="padding-right:10px;" />
+<img align="left" alt="react" width="40px" src="./Assets/reacticon.png" style="padding-right:10px;" />
+<img align="left" alt="python" width="40px" src="./Assets/pythonicon.png" style="padding-right:10px;" />
+<img align="left" alt="django" width="40px" src="./Assets/djangoicon.png" style="padding-right:10px;" />
+<img align="left" alt="json" width="40px" src="./Assets/jconicon.png" style="padding-right:10px;" />
+<img align="left" alt="sql" width="40px" src="./Assets/sqlicon.png" style="padding-right:10px;" />
+<img align="left" alt="diagram" width="40px" src="./Assets/diagramicon.png" style="padding-right:10px;" />
+<img align="left" alt="figma" width="40px" src="./Assets/figmaicon.png" style="padding-right:10px;" />
+<img align="left" alt="github" width="40px" src="./Assets/githubicon.png" style="padding-right:10px;" />
+<img align="left" alt="git" width="40px" src="./Assets/giticon.png" style="padding-right:10px;" />
+<img align="left" alt="postman" width="40px" src="./Assets/postmanicon.png" style="padding-right:10px;" />
+<img align="left" alt="slack" width="40px" src="./Assets/slackicon.png" style="padding-right:10px;" />
+<img align="left" alt="teamwork" width="40px" src="./Assets/teamworkicon.png" style="padding-right:10px;" />
+<img align="left" alt="vscode" width="40px" src="./Assets/vscodeicon.png" style="padding-right:10px;" />
+<img align="left" alt="wireframe" width="40px" src="./Assets/wireframingicon.png" style="padding-right:10px;" />
+<img align="left" alt="zoom" width="40px" src="./Assets/zoomicon.png" style="padding-right:10px;" />
