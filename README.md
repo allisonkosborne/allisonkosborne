@@ -18,7 +18,7 @@
 
 <img align="left" alt="HTML" width="40px" src="./Assets/htmlicon.png" style="padding-right:10px;" />
 <img align="left" alt="CSS" width="40px" src="./Assets/cssicon.png" style="padding-right:10px;" />
-<img align="left" alt="JS" width="40px" src="./Assets/javascipticon.png" style="padding-right:10px;" />
+<img align="left" alt="JS" width="40px" src="./Assets/javascripticon.png" style="padding-right:10px;" />
 <img align="left" alt="react" width="40px" src="./Assets/reacticon.png" style="padding-right:10px;" />
 <img align="left" alt="python" width="40px" src="./Assets/pythonicon.png" style="padding-right:10px;" />
 <img align="left" alt="django" width="40px" src="./Assets/djangoicon.png" style="padding-right:10px;" />
